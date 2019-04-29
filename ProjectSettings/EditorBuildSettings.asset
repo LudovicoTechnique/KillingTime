@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e2ffed6adbb8c5e4188baeda7024c9b7
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 34a71f84e5f48a3419f685cbc0cea1de
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 0ecfba95310381342809bc217b23f002
+  - enabled: 1
+    path: Assets/Scenes/Bank.unity
+    guid: 3943b40090b33ba489b5db9d4fddf856
+  - enabled: 1
+    path: Assets/Scenes/Casino.unity
+    guid: 28ab93fd0cd3e884ba567ef16d599eaf
+  - enabled: 1
+    path: Assets/Scenes/Events.unity
+    guid: 90a16e9b0ab55c64a9f920a0a1559f5f
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 51e3535b9dae831478e2d15b37e02b19
+  m_configObjects: {}
